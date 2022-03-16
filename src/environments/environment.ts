@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  base_URL: "http://localhost:3500/"
+  base_URL: "https://mymaidbackend.herokuapp.com/"
 };
 
 /*
